@@ -1,2 +1,9 @@
-# zone-xviz-convertor
-zone-xviz-convertor
+# How To Use Server
+安装依赖
+```
+npm install
+```
+启动服务
+```
+npm run start 
+```
